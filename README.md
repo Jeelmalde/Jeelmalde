@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Jeel Malde, an engineer who loves to try new things with programming. I have over 1.5+ years of experience as Frontend React Developer.
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning Next.js.
-
 - # 💫 About Me:
 👋 Hi, I’m Jeel Malde, an engineer who loves to try new things with programming. I have over 1.5+ years of experience as Frontend React Developer.<br>🔭 I’m currently working on React.js<br>👯 I’m looking for a frontend job.<br>👀 I’m interested in frontend development.<br>🌱 I’m currently learning Node.js and Next.js<br>💬 Ask me about<br>
 
